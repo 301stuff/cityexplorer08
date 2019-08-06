@@ -1,12 +1,13 @@
 {
-  "name": "lab-07-back-end",
+  "name": "301n14-lab07",
   "version": "1.0.0",
-  "description": "Trello - https://trello.com/b/wndEHlTT/cityexplorer06",
+  "description": "Lab 07 -  Node NPM Express with PT and James",
   "main": "server.js",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
+    "pg": "^7.12.0",
     "superagent": "^5.1.0"
   },
   "devDependencies": {},
@@ -16,12 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/all1124/lab-07-back-end.git"
+    "url": "git+https://github.com/ptong19/301n14-lab07.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/all1124/lab-07-back-end/issues"
+    "url": "https://github.com/ptong19/301n14-lab07/issues"
   },
-  "homepage": "https://github.com/all1124/lab-07-back-end#readme"
+  "homepage": "https://github.com/ptong19/301n14-lab07#readme"
 }
